@@ -10,10 +10,17 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "yandex-map-kit",
-            targets: [
-                "YandexMapKit", "YandexMapKitPlaces", "YandexMapKitSearch", "YandexRuntime"
-            ]),
+            name: "YandexMapKit",
+            targets: ["YandexMapKit"]),
+        .library(
+            name: "YandexMapKitPlaces",
+            targets: ["YandexMapKitPlaces"]),
+        .library(
+            name: "YandexMapKitSearch",
+            targets: ["YandexMapKitSearch"]),
+        .library(
+            name: "YandexRuntime",
+            targets: ["YandexRuntime"]),
     ],
     dependencies: [
 
