@@ -2,5 +2,5 @@
 	"3.3.1": "https://maps-ios-pods-public.s3.yandex.net/YandexMapKitSearch-3.3.1.framework.zip",
 	"3.4.0":"https://maps-ios-pods-public.s3.yandex.net/YandexMapKitSearch-3.4.framework.zip",
 	"3.5.0":"https://maps-ios-pods-public.s3.yandex.net/YandexMapKitSearch-3.5.0.framework.zip",
-	"xc3.5.0":"https://github.com/iserbius/yandex-map-support/releases/download/v1.0.0/YandexMapKitSearch.xcframework.zip"
+	"xc3.5.0":"https://raw.githubusercontent.com/iserbius/yandex-map-carthage/master/Frameworks/YandexMapKitSearch.xcframework.zip"
 }
